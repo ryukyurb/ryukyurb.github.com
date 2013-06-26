@@ -4,13 +4,28 @@
   <title><![CDATA[Ryukyu.rb]]></title>
   <link href="http://ryukyurb.github.io/atom.xml" rel="self"/>
   <link href="http://ryukyurb.github.io/"/>
-  <updated>2013-06-27T00:59:21+09:00</updated>
+  <updated>2013-06-27T01:17:22+09:00</updated>
   <id>http://ryukyurb.github.io/</id>
   <author>
     <name><![CDATA[Takamasa Suzuki]]></name>
-    
+    <email><![CDATA[webcrafts098@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[沖縄Ruby初心者勉強会は「ryukyu.rb - Ryukyu Rubyist Rookies」としてスタートしました]]></title>
+    <link href="http://ryukyurb.github.io/blog/2013/06/27/post-title/"/>
+    <updated>2013-06-27T01:08:00+09:00</updated>
+    <id>http://ryukyurb.github.io/blog/2013/06/27/post-title</id>
+    <content type="html"><![CDATA[<h1>沖縄Ruby初心者勉強会 名称変更！</h1>
+
+<p>先日から勉強会を開始した「沖縄Ruby勉強会」…きちんと名称を考えていなかったので「他のグループと紛らわしい」という声がでたので、初回の勉強会では「名称を考えよう」という時間を設けてみんなで話し合った結果…「Ryukyu Rubyist Rookies」「Ryukyu.rb」としてスタートすることになりました。</p>
+
+<h2>OctoPressを導入</h2>
+
+<p>そして、勉強用にOctoPressを導入しました。と言っても…普段はWordPressで個人ブログ「<a href="http://ryu9life.com/">沖縄移住生活</a>」をやっているので、こちらは主にryukyu.rbの活動報告や勉強会の案内…そして、勉強会で語りきれなかった部分のサポートに利用していく予定です。</p>
+]]></content>
+  </entry>
   
 </feed>
