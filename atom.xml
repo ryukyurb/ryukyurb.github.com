@@ -4,7 +4,7 @@
   <title><![CDATA[Ryukyu.rb]]></title>
   <link href="http://ryukyurb.github.io/atom.xml" rel="self"/>
   <link href="http://ryukyurb.github.io/"/>
-  <updated>2013-07-05T15:45:23+09:00</updated>
+  <updated>2013-07-05T15:48:13+09:00</updated>
   <id>http://ryukyurb.github.io/</id>
   <author>
     <name><![CDATA[Takamasa Suzuki]]></name>
@@ -14,19 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[20130701]]></title>
+    <title type="html"><![CDATA[第二回目のryukyu.rb開催しました]]></title>
     <link href="http://ryukyurb.github.io/blog/2013/07/05/20130701/"/>
-    <updated>2013-07-05T00:00:00+09:00</updated>
+    <updated>2013-07-05T15:38:00+09:00</updated>
     <id>http://ryukyurb.github.io/blog/2013/07/05/20130701</id>
-    <content type="html"><![CDATA[<p>﻿&mdash;&ndash;
-layout: post
-title: 第二回目のryukyu.rb開催しました
-date: 2013-07-05 15:38
-comments: true</p>
-
-<h2>categories:</h2>
-
-<p>今週月曜日、7/1には第二回目のryukyu.rb「Ruby勉強会」を開催しました。前回よりも更に参加者が増え、だんだんと盛り上がってきています。</p>
+    <content type="html"><![CDATA[<p>今週月曜日、7/1には第二回目のryukyu.rb「Ruby勉強会」を開催しました。前回よりも更に参加者が増え、だんだんと盛り上がってきています。</p>
 
 <p>前回、変数などをやったので今回は条件分岐と繰り返しの構文を勉強し、課題としてFizzBuzzをみんなでやっていくという流れでおこない、今回も充実した時間を過ごすことができました。</p>
 
